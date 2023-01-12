@@ -1,4 +1,4 @@
-package Homework12_01_2023;
+package Homework12_01_2023.BubbleSort;
 
 import java.util.ArrayList;
 import java.util.Arrays;
